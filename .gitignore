@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Jetbrains IDE Config Files
+.idea/
+
+# VsCode IDE Config Files
+.vscode/
